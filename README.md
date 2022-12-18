@@ -1,4 +1,5 @@
 ENGLISH
+
 1- First of all, let me explain what web 2.0 is and why it is used. Unlike Web 1.0 technology, web2.0 technology is the internet environment, where user is active with some features such as promoting from the position of just receiving information to providing information, having the information produced, sharing, discussing, etc. In other words, it is the web sites or applications used such as Youtube, Eksi Sozluk, Twitter, Instagram, Facebook, etc. sites where the users can see, follow the activities of other users, get in contact with them, make joint activities or programs.
 
 2- We are currently using web 2.0 technology in the world. Since there is an additional web layer on Native, all objects are being created within this web layer. If there are too many objects on a website, you often have witnessed that these pages were freezing and not responding to the user interface. For this reason, developers add a method called paging to their web pages in order to stop the strain of web pages. But even this often fails to achieve the desired performance. Although many methods were developed for this, it is usually slow, because it is in web layer.
@@ -16,7 +17,10 @@ ENGLISH
 In short, we can call this technology web3.0
 
 
+
+
 TÜRKÇE
+
 1- Öncelikle web 2.0 nedir, neden kullanılır bunu açıklayayım. Web 1.0 teknolojisinden farklı olarak web2.0 teknolojisi; kullanıcıların sadece bilgi alan konumdan bilgi veren, bilgi ürettiren, paylaşımda bulunduran, tartıştıran vb özelliklerle kullanıcının aktif olduğu internet ortamlarıdır. Yani sade biçimde açıklamak gerekirse Vikipedi, Youtube, Ekşi sözlük, Twitter, İnstagram, Facebook vb siteler gibi diğer kullanıcıların aktivitelerini görebildikleri, takip edebildikleri, iletişime geçebildikleri, ortak aktivite yapabildikleri internet siteleri veya kullanılan programlardır.
 
 2- Şu anda dünyada web 2.0 teknolojisini kullanıyoruz. Native üzerinde ek olarak bir web katmanı olduğu için tüm nesneler bu web katmanı içinde oluşturuluyor. Bir web sitesinde eğer çok fazla nesne varsa bu sayfaların donduğunu ve kullanıcı arabirimine cevap vermediğine çoğu zaman şahit olmuşsunuzdur. Bu nedenle geliştiriciler web sayfalarının kasmasını önlemek amacıyla paging denilen bir yöntemi web yazılımlarına eklemektedirler. Ama bu bile çoğu zaman istenilen performansı sağlayamamaktadır. Bununla ilgili ne kadar çok yöntemler geliştirilse de web katmanında olduğu için genellikle yavaşlıklar söz konusu.
